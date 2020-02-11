@@ -1,0 +1,17 @@
+---
+---
+<!doctype html>
+<html lang="it">
+    <head>
+        {% include header.html %}
+        <title>Informazioni sul corso di Basi di Dati</title>
+    </head>
+    <body>
+        <div class="container-fluid pt-3">
+            <h1>Struttura contenuti</h1>
+            {% include topics.html topics=site.data.topics %}
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>

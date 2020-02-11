@@ -1,0 +1,26 @@
+- label: Motivazioni
+  refs: ["refs:elmasri#1"]
+- label: "DBMS: Concetti e Architettura"
+  refs: ["refs:elmasri#2"]
+- label: Modello Relazionale
+  refs: ["refs:atzeni#2", "refs:elmasri#3"]
+- label: Algebra e calcolo relazionale
+  refs: ["refs:atzeni#3", "refs:elmasri#6"]
+- label: Linguaggio SQL
+  refs: ["refs:atzeni#4-6", "refs:elmasri#4,5,12"]
+- label: Progettazione Basi di Dati Relazionali
+  subtopics:
+    - label: Modello E-R
+      refs: ["refs:atzeni#7", "refs:elmasri#7"]
+    - label: Estensioni a Modello E-R
+      refs: ["refs:elmasri#8"]
+    - label: Progettazione concettuale
+      refs: ["refs:atzeni#8", "refs:elmasri#10"]
+    - label: Progettazione logica
+      refs: ["refs:atzeni#9", "refs:elmasri#9"]
+    - label: Progettazione fisica
+      refs: ["refs:atzeni#10", "refs:elmasri#14,15"]
+    - label: Normalizzazione
+      refs: ["refs:atzeni#11", "refs:elmasri#11"]
+- label: Transazioni
+  refs: ["refs:atzeni#11", "refs:elmasri#16"]

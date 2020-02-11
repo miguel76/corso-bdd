@@ -1,0 +1,13 @@
+<ol>
+    {% for topic in include.topics %}
+        <li>
+            {{topic.label}}
+            {% if topic.refs %}
+                ({% for ref in topic.refs %}{{ ref }},{% endfor %})
+            {% endif %}
+            {% if topic.subtopics %}
+                : {% include topics.html topics=topic.subtopics %}
+            {% endif %}
+        </li>
+    {% endfor %}
+</ol>
