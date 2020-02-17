@@ -1,26 +1,33 @@
 - label: Motivazioni
-  refs: ["refs:elmasri#1"]
+  refs: ["refs:elmasri#1", "refs:connolly#1"]
 - label: "DBMS: Concetti e Architettura"
-  refs: ["refs:elmasri#2"]
+  refs: ["refs:elmasri#2", "refs:connolly#2,3"]
 - label: Modello Relazionale
-  refs: ["refs:atzeni#2", "refs:elmasri#3"]
+  refs: ["refs:atzeni#2", "refs:elmasri#3", "refs:connolly#4"]
 - label: Algebra e calcolo relazionale
-  refs: ["refs:atzeni#3", "refs:elmasri#6"]
+  refs: ["refs:atzeni#3", "refs:elmasri#6", "refs:connolly#5"]
 - label: Linguaggio SQL
-  refs: ["refs:atzeni#4-6", "refs:elmasri#4,5,12"]
+  refs: ["refs:atzeni#4-6", "refs:elmasri#4,5,12", "refs:connolly#6-8"]
 - label: Progettazione Basi di Dati Relazionali
   subtopics:
     - label: Modello E-R
-      refs: ["refs:atzeni#7", "refs:elmasri#7"]
+      refs: ["refs:atzeni#7", "refs:elmasri#7", "refs:connolly#12"]
     - label: Estensioni a Modello E-R
-      refs: ["refs:elmasri#8"]
+      refs: ["refs:elmasri#8", "refs:connolly#13"]
     - label: Progettazione concettuale
-      refs: ["refs:atzeni#8", "refs:elmasri#10"]
+      refs: ["refs:atzeni#8", "refs:elmasri#10", "refs:connolly#16"]
     - label: Progettazione logica
-      refs: ["refs:atzeni#9", "refs:elmasri#9"]
+      refs: ["refs:atzeni#9", "refs:elmasri#9", "refs:connolly#17"]
     - label: Progettazione fisica
-      refs: ["refs:atzeni#10", "refs:elmasri#14,15"]
+      refs: ["refs:atzeni#10", "refs:elmasri#14,15", "refs:connolly#18"]
     - label: Normalizzazione
-      refs: ["refs:atzeni#11", "refs:elmasri#11"]
+      refs: ["refs:atzeni#11", "refs:elmasri#11", "refs:connolly#14,15"]
+    - label: Tuning
+      refs: ["refs:connolly#19"]
 - label: Transazioni
   refs: ["refs:atzeni#11", "refs:elmasri#16"]
+- label: Database object-relational
+  refs: ["refs:connolly#9"]
+
+# "refs:connolly#10,11"
+# "refs:connolly#20-"
