@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T19:19:22.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="2m5xbC5grDiHOAYTIutt" version="13.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-11T21:39:43.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="oT8XwCnnKRyfzNIBiBjk" version="13.1.5" type="github" pages="3">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,15 @@
           <mxGeometry x="-0.2211" y="-2" relative="1" as="geometry">
             <mxPoint x="-24" y="-12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yzGMiYRflrwIGs22CSFP-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yzGMiYRflrwIGs22CSFP-1" source="yzGMiYRflrwIGs22CSFP-22" target="yzGMiYRflrwIGs22CSFP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="100" as="sourcePoint" />
+            <mxPoint x="270" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yzGMiYRflrwIGs22CSFP-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="280" y="70" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
