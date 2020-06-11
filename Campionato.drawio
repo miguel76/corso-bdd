@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T21:58:19.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="mDtNtu3petg3Gv0VK8u2" version="13.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-11T21:59:11.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="DEJ1rC02cKEhFOdKd7aj" version="13.1.5" type="github" pages="3">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,10 +229,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="721" y="120" width="10" height="10" as="geometry" />
+          <mxGeometry x="711" y="120" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-52" value="Nome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="700" y="100" width="40" height="20" as="geometry" />
+        <mxCell id="yzGMiYRflrwIGs22CSFP-52" value="Data di Nascita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="721" y="115" width="89" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" source="yzGMiYRflrwIGs22CSFP-54" parent="yzGMiYRflrwIGs22CSFP-1" target="yzGMiYRflrwIGs22CSFP-4">
           <mxGeometry relative="1" as="geometry">
@@ -244,7 +244,7 @@
           <mxGeometry x="711" y="150" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-55" value="Cognome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="751" y="100" width="40" height="20" as="geometry" />
+          <mxGeometry x="730" y="145" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
