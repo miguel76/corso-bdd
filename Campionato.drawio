@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-12T16:21:49.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="yzRJK5NT_4oqGxK_4rRV" version="13.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-12T16:28:21.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ld8Ugr1QAvgv8A8c2JOO" version="13.1.5" type="github" pages="3">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,6 +350,15 @@
         </mxCell>
         <mxCell id="o4mT1XbGUImwSHFmAI3I-32" value="Nome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry x="60" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o4mT1XbGUImwSHFmAI3I-33" value="Partita Giocata&lt;br&gt;Fuori Sede" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="280" y="415" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o4mT1XbGUImwSHFmAI3I-34" value="Partita Giocata Regolarmente" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="440" y="405" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o4mT1XbGUImwSHFmAI3I-35" value="Partita Rinviata" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="450" y="480" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
