@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-12T16:06:32.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="OvwJ4Va-zyypP7U_LiYO" version="13.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-12T16:06:58.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="-u80ElpDraljlh3eGHb-" version="13.1.5" type="github" pages="3">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
         <mxCell id="o4mT1XbGUImwSHFmAI3I-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry x="210" y="340" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="o4mT1XbGUImwSHFmAI3I-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" source="o4mT1XbGUImwSHFmAI3I-20" parent="yzGMiYRflrwIGs22CSFP-1" target="yzGMiYRflrwIGs22CSFP-3">
+        <mxCell id="o4mT1XbGUImwSHFmAI3I-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="o4mT1XbGUImwSHFmAI3I-20" parent="yzGMiYRflrwIGs22CSFP-1" target="yzGMiYRflrwIGs22CSFP-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="460" as="sourcePoint" />
             <mxPoint x="279.9999999999999" y="400" as="targetPoint" />
@@ -304,7 +304,7 @@
           <mxGeometry x="50" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o4mT1XbGUImwSHFmAI3I-20" value="Arbitro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="70" y="380" width="50" height="30" as="geometry" />
+          <mxGeometry x="150" y="380" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
