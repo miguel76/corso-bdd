@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-12T21:05:45.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="1I0g5LBwNpZguhSapmXw" version="13.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-12T21:08:50.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="b0hrddGgFW1ccyHBYkUP" version="13.1.5" type="github" pages="4">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -838,6 +838,9 @@
         </mxCell>
         <mxCell id="vsALNHtsV8E9S3FCxR2D-94" value="Giornata Campionato" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="vsALNHtsV8E9S3FCxR2D-1">
           <mxGeometry x="108.1" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vsALNHtsV8E9S3FCxR2D-95" value="PartiteGiornata" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="vsALNHtsV8E9S3FCxR2D-1">
+          <mxGeometry x="30" y="255" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
