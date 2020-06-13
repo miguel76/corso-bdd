@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T17:44:54.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ms0ATztsZJbVGv2Kcz-3" version="13.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-13T17:45:37.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="1x7-gJ68VbZeW815SMdL" version="13.2.4" type="github" pages="7">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1436,7 +1436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Ristrutturato" id="LDbg837ictHY4u9DxrBe">
-    <mxGraphModel dx="374" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-0" />
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-1" parent="KsCcnd8QkRVWxUOMaP3v-0" />
@@ -1803,7 +1803,7 @@
             <mxPoint x="2.1000000000000014" y="-10.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KsCcnd8QkRVWxUOMaP3v-103" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KsCcnd8QkRVWxUOMaP3v-1" source="KsCcnd8QkRVWxUOMaP3v-2" target="KsCcnd8QkRVWxUOMaP3v-100">
+        <mxCell id="KsCcnd8QkRVWxUOMaP3v-103" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="KsCcnd8QkRVWxUOMaP3v-1" source="KsCcnd8QkRVWxUOMaP3v-2" target="KsCcnd8QkRVWxUOMaP3v-100">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-98.1" y="147.5" as="sourcePoint" />
             <mxPoint x="-140.00000000000009" y="147.5" as="targetPoint" />
