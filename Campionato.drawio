@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T18:20:42.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="54MLEEUFxAlDFUOZw997" version="13.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-13T18:21:01.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="D7VB_-4qoNhNLKuZJGc9" version="13.2.4" type="github" pages="7">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1890,6 +1890,9 @@
           <mxGeometry x="0.45" y="-3" relative="1" as="geometry">
             <mxPoint x="-24.900000000000002" y="9.56" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KsCcnd8QkRVWxUOMaP3v-141" value="Persona" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
+          <mxGeometry x="339" y="-130" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
