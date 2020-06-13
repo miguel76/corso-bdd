@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T18:12:55.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="AjglGiDty0KZP6GfXPoB" version="13.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-13T18:15:03.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="nC5XJIrlvt4WhjMJOeXo" version="13.2.4" type="github" pages="7">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1452,7 +1452,7 @@
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-5" value="Contendente" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
           <mxGeometry x="331" y="142.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsCcnd8QkRVWxUOMaP3v-6" value="Contratto" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
+        <mxCell id="KsCcnd8QkRVWxUOMaP3v-6" value="Contratto&lt;br&gt;Giocatore" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
           <mxGeometry x="180" y="37.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-7" value="GiocatoreInCampo" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
@@ -1840,6 +1840,12 @@
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-130" value="Allenatore" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
           <mxGeometry x="51.89999999999998" y="-32.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KsCcnd8QkRVWxUOMaP3v-131" value="Contratto&lt;br&gt;Allenatore" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
+          <mxGeometry x="41.900000000000006" y="37.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KsCcnd8QkRVWxUOMaP3v-132" value="Direzione" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
+          <mxGeometry x="661.85" y="37.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
