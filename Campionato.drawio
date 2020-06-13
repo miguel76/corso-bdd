@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T17:41:50.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="BtS82gY6etoB_IrxfikD" version="13.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-13T17:42:07.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="FK-_4_hMDzPCCB74tsej" version="13.2.4" type="github" pages="7">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1458,7 +1458,7 @@
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-7" value="GiocatoreInCampo" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
           <mxGeometry x="480" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KsCcnd8QkRVWxUOMaP3v-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KsCcnd8QkRVWxUOMaP3v-1" source="KsCcnd8QkRVWxUOMaP3v-2">
+        <mxCell id="KsCcnd8QkRVWxUOMaP3v-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KsCcnd8QkRVWxUOMaP3v-1" source="KsCcnd8QkRVWxUOMaP3v-2" target="KsCcnd8QkRVWxUOMaP3v-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-128.1" y="277.5" as="sourcePoint" />
             <mxPoint x="200.9" y="134.5" as="targetPoint" />
@@ -1466,7 +1466,7 @@
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-9" value="(0,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KsCcnd8QkRVWxUOMaP3v-8">
           <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
+            <mxPoint x="-22" y="-10.88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="KsCcnd8QkRVWxUOMaP3v-1" source="KsCcnd8QkRVWxUOMaP3v-5" target="KsCcnd8QkRVWxUOMaP3v-3">
