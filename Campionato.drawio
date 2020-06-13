@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T15:04:17.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="YGaGB27pJSVG9wVC--mR" version="13.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-13T15:06:22.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="t6w5ZHnuNxfJzP_ln0p0" version="13.2.4" type="github" pages="4">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -539,18 +539,6 @@
         </mxCell>
         <mxCell id="XwUvOCf8x3tbnhCeuNt--28" value="Allenatore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XwUvOCf8x3tbnhCeuNt--1">
           <mxGeometry x="367" y="70" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XwUvOCf8x3tbnhCeuNt--91" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XwUvOCf8x3tbnhCeuNt--1" source="XwUvOCf8x3tbnhCeuNt--92" target="XwUvOCf8x3tbnhCeuNt--5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="216.99999999999997" y="185" as="sourcePoint" />
-            <mxPoint x="359.405634719257" y="216.20281735962863" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XwUvOCf8x3tbnhCeuNt--92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XwUvOCf8x3tbnhCeuNt--1">
-          <mxGeometry x="379" y="190" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="XwUvOCf8x3tbnhCeuNt--93" value="Di casa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XwUvOCf8x3tbnhCeuNt--1">
-          <mxGeometry x="357.5" y="170" width="53" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
