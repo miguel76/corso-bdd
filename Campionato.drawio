@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T15:55:11.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="iQRO8u7lTit-T89ih_Qd" version="13.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-06-13T16:40:01.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="bz3PoMRbeY3lE3Dm1XzW" version="13.2.4" type="github" pages="6">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Partita" id="1tdB0cZ40aVsckUPWXu9">
-    <mxGraphModel dx="1613" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CmXgiQrawSBe-VeX6reN-0" />
         <mxCell id="CmXgiQrawSBe-VeX6reN-1" parent="CmXgiQrawSBe-VeX6reN-0" />
@@ -415,8 +415,8 @@
         <mxCell id="CmXgiQrawSBe-VeX6reN-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="CmXgiQrawSBe-VeX6reN-1">
           <mxGeometry x="100" y="390" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="CmXgiQrawSBe-VeX6reN-66" value="Regione di nascita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CmXgiQrawSBe-VeX6reN-1">
-          <mxGeometry x="-10" y="410" width="110" height="20" as="geometry" />
+        <mxCell id="CmXgiQrawSBe-VeX6reN-66" value="Data di nascita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CmXgiQrawSBe-VeX6reN-1">
+          <mxGeometry x="10" y="410" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CmXgiQrawSBe-VeX6reN-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CmXgiQrawSBe-VeX6reN-1" source="CmXgiQrawSBe-VeX6reN-68" target="CmXgiQrawSBe-VeX6reN-57">
           <mxGeometry relative="1" as="geometry">
@@ -919,7 +919,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Completo Plus" id="VV8H1AEnIKZictBjuukE">
-    <mxGraphModel dx="1613" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vsALNHtsV8E9S3FCxR2D-0" />
         <mxCell id="vsALNHtsV8E9S3FCxR2D-1" parent="vsALNHtsV8E9S3FCxR2D-0" />
@@ -1193,8 +1193,8 @@
         <mxCell id="vsALNHtsV8E9S3FCxR2D-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="vsALNHtsV8E9S3FCxR2D-1" vertex="1">
           <mxGeometry x="98.1" y="429" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="vsALNHtsV8E9S3FCxR2D-66" value="Regione di nascita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vsALNHtsV8E9S3FCxR2D-1" vertex="1">
-          <mxGeometry x="-11.9" y="449" width="110" height="20" as="geometry" />
+        <mxCell id="vsALNHtsV8E9S3FCxR2D-66" value="Data di nascita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vsALNHtsV8E9S3FCxR2D-1" vertex="1">
+          <mxGeometry x="10" y="449" width="88.1" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsALNHtsV8E9S3FCxR2D-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="vsALNHtsV8E9S3FCxR2D-1" source="vsALNHtsV8E9S3FCxR2D-68" target="vsALNHtsV8E9S3FCxR2D-57" edge="1">
           <mxGeometry relative="1" as="geometry">
