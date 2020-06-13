@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T15:03:56.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="l4kGOF2Pla_c-Fa8az6n" version="13.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-13T15:04:17.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="YGaGB27pJSVG9wVC--mR" version="13.2.4" type="github" pages="4">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,11 +487,6 @@
             <mxPoint x="230" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XwUvOCf8x3tbnhCeuNt--11" value="(2,2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XwUvOCf8x3tbnhCeuNt--10">
-          <mxGeometry x="0.5" y="-1" relative="1" as="geometry">
-            <mxPoint x="-19" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XwUvOCf8x3tbnhCeuNt--12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XwUvOCf8x3tbnhCeuNt--1" source="XwUvOCf8x3tbnhCeuNt--2" target="XwUvOCf8x3tbnhCeuNt--6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="300" as="sourcePoint" />
@@ -507,11 +502,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="280" as="sourcePoint" />
             <mxPoint x="210" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XwUvOCf8x3tbnhCeuNt--15" value="(0,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XwUvOCf8x3tbnhCeuNt--14">
-          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XwUvOCf8x3tbnhCeuNt--20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XwUvOCf8x3tbnhCeuNt--1" source="XwUvOCf8x3tbnhCeuNt--21" target="XwUvOCf8x3tbnhCeuNt--2">
