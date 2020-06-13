@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T18:26:03.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="8Ibb0KT56gEJN8RE7n0h" version="13.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-13T18:26:19.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="8dUMN3eL1JZJEBA6N5Nm" version="13.2.4" type="github" pages="7">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1558,7 +1558,7 @@
           <mxGeometry x="297.9" y="-105" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-29" value="Nome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
-          <mxGeometry x="257.9" y="-125" width="40" height="50" as="geometry" />
+          <mxGeometry x="257.9" y="-145" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-30" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="KsCcnd8QkRVWxUOMaP3v-1" source="KsCcnd8QkRVWxUOMaP3v-31" target="KsCcnd8QkRVWxUOMaP3v-141">
           <mxGeometry relative="1" as="geometry">
@@ -1570,7 +1570,7 @@
           <mxGeometry x="297.9" y="-125" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-32" value="Cognome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KsCcnd8QkRVWxUOMaP3v-1">
-          <mxGeometry x="245.5" y="-150" width="40" height="20" as="geometry" />
+          <mxGeometry x="249" y="-110" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KsCcnd8QkRVWxUOMaP3v-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KsCcnd8QkRVWxUOMaP3v-1" source="KsCcnd8QkRVWxUOMaP3v-34" target="KsCcnd8QkRVWxUOMaP3v-4">
           <mxGeometry relative="1" as="geometry">
