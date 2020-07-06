@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-06T16:56:32.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="-GosQbq8Yj6MSjueGyjc" version="13.3.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-07-06T17:01:29.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="48ACfcohTfEz2qVc02r0" version="13.3.0" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6573,7 +6573,7 @@
             <mxPoint x="41.900000000000006" y="97.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPm3Dql74Z7KDiFr3eau-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="aPm3Dql74Z7KDiFr3eau-1">
+        <mxCell id="aPm3Dql74Z7KDiFr3eau-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="aPm3Dql74Z7KDiFr3eau-1">
           <mxGeometry x="10" y="157.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="aPm3Dql74Z7KDiFr3eau-22" value="Nome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aPm3Dql74Z7KDiFr3eau-1">
@@ -7045,6 +7045,18 @@
             <mxPoint x="390" y="100" as="sourcePoint" />
             <mxPoint x="399.9999999999998" y="257.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aPm3Dql74Z7KDiFr3eau-134" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="aPm3Dql74Z7KDiFr3eau-135" parent="aPm3Dql74Z7KDiFr3eau-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7.8500000000000085" y="-133" as="sourcePoint" />
+            <mxPoint x="177.85000000000008" y="-68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPm3Dql74Z7KDiFr3eau-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="aPm3Dql74Z7KDiFr3eau-1">
+          <mxGeometry x="135.95" y="-73" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aPm3Dql74Z7KDiFr3eau-136" value="Cod. Allenatore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aPm3Dql74Z7KDiFr3eau-1">
+          <mxGeometry x="60.95" y="-80" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
