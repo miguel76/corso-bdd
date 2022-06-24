@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:25:34.908Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="zFlrJ9nHIOiDcfpLFY5r" version="20.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:26:12.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="QfbHGIYFSABUSG6eiFwq" version="20.0.3" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="985" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -725,7 +725,7 @@
           <mxGeometry x="147" y="125" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="o4mT1XbGUImwSHFmAI3I-26" value="Città" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
-          <mxGeometry x="57" y="140" width="90" height="20" as="geometry" />
+          <mxGeometry x="57" y="140" width="43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o4mT1XbGUImwSHFmAI3I-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yzGMiYRflrwIGs22CSFP-1" source="o4mT1XbGUImwSHFmAI3I-28" target="o4mT1XbGUImwSHFmAI3I-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -834,6 +834,12 @@
         </mxCell>
         <mxCell id="o4mT1XbGUImwSHFmAI3I-65" value="Anno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="357.5" y="170" width="53" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pOsYEVuAMQ9HLyNE48oW-3" value="Indirizzo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="51" y="200" width="59" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pOsYEVuAMQ9HLyNE48oW-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="161" y="200" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
