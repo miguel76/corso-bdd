@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:40:17.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="tolh_FpuR9kBiYSNMkcw" version="20.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:41:20.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="huhbp5VFwpTRloSw0yuy" version="20.0.3" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="985" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -836,31 +836,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-9" value="Genere" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="607" y="595" width="100" height="40" as="geometry" />
+          <mxGeometry x="212" y="591" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-10" value="Nome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="534" y="595" width="42.1" height="20" as="geometry" />
+          <mxGeometry x="139" y="591" width="42.1" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="pOsYEVuAMQ9HLyNE48oW-12" target="pOsYEVuAMQ9HLyNE48oW-9" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="299.1" y="715" as="sourcePoint" />
-            <mxPoint x="609.1" y="655" as="targetPoint" />
+            <mxPoint x="-95.89999999999998" y="711" as="sourcePoint" />
+            <mxPoint x="214.10000000000002" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="575.1" y="600" width="10" height="10" as="geometry" />
+          <mxGeometry x="180.10000000000002" y="596" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="pOsYEVuAMQ9HLyNE48oW-14" target="pOsYEVuAMQ9HLyNE48oW-9" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="587" y="649" as="sourcePoint" />
-            <mxPoint x="615.9965517241295" y="665.3448275862117" as="targetPoint" />
+            <mxPoint x="192" y="645" as="sourcePoint" />
+            <mxPoint x="220.99655172412952" y="661.3448275862117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="575.1" y="620" width="10" height="10" as="geometry" />
+          <mxGeometry x="180.10000000000002" y="616" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-15" value="Descrizione" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="507" y="615" width="67.1" height="20" as="geometry" />
+          <mxGeometry x="112" y="611" width="67.1" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-16" value="Genere Testo" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry x="203.5" y="491" width="120" height="60" as="geometry" />
