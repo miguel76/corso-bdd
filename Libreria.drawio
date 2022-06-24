@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:44:24.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="S8rKPGctJQ2SlZLUZZtp" version="20.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:45:41.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="sQaRSHNVobP7eQYsowoG" version="20.0.3" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="985" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -866,7 +866,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOsYEVuAMQ9HLyNE48oW-27" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pOsYEVuAMQ9HLyNE48oW-26">
+        <mxCell id="pOsYEVuAMQ9HLyNE48oW-27" value="(0,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pOsYEVuAMQ9HLyNE48oW-26">
           <mxGeometry x="-0.2211" y="-2" relative="1" as="geometry">
             <mxPoint x="-18" y="-29" as="offset" />
           </mxGeometry>
@@ -880,7 +880,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOsYEVuAMQ9HLyNE48oW-29" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pOsYEVuAMQ9HLyNE48oW-28">
+        <mxCell id="pOsYEVuAMQ9HLyNE48oW-29" value="(0,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pOsYEVuAMQ9HLyNE48oW-28">
           <mxGeometry x="-0.2211" y="-2" relative="1" as="geometry">
             <mxPoint x="-18" y="-14" as="offset" />
           </mxGeometry>
