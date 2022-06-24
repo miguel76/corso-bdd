@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:10:14.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="kvGSghdP7EoKZH-420LT" version="20.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:13:23.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="9tylYYZUQfVrwX--6XJc" version="20.0.3" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="985" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -534,20 +534,17 @@
       <root>
         <mxCell id="yzGMiYRflrwIGs22CSFP-0" />
         <mxCell id="yzGMiYRflrwIGs22CSFP-1" parent="yzGMiYRflrwIGs22CSFP-0" />
-        <mxCell id="yzGMiYRflrwIGs22CSFP-2" value="Squadra" style="whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
+        <mxCell id="yzGMiYRflrwIGs22CSFP-2" value="Casa Editrice" style="whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="280" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-3" value="Testo" style="whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="280" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-4" value="Giocatore" style="whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
+        <mxCell id="yzGMiYRflrwIGs22CSFP-4" value="Autore" style="whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="580" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-5" value="Contendente" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-6" value="Contratto" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
-          <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-7" value="GiocatoreInCampo" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
@@ -572,28 +569,6 @@
         <mxCell id="yzGMiYRflrwIGs22CSFP-18" value="(2,2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yzGMiYRflrwIGs22CSFP-9" vertex="1" connectable="0">
           <mxGeometry x="0.5" y="-1" relative="1" as="geometry">
             <mxPoint x="-19" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="yzGMiYRflrwIGs22CSFP-1" source="yzGMiYRflrwIGs22CSFP-2" target="yzGMiYRflrwIGs22CSFP-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="300" as="sourcePoint" />
-            <mxPoint x="290" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-14" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yzGMiYRflrwIGs22CSFP-10" vertex="1" connectable="0">
-          <mxGeometry x="0.45" y="-3" relative="1" as="geometry">
-            <mxPoint x="-9" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="yzGMiYRflrwIGs22CSFP-1" source="yzGMiYRflrwIGs22CSFP-6" target="yzGMiYRflrwIGs22CSFP-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="280" as="sourcePoint" />
-            <mxPoint x="210" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-16" value="(0,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="yzGMiYRflrwIGs22CSFP-11" vertex="1" connectable="0">
-          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="yzGMiYRflrwIGs22CSFP-1" source="yzGMiYRflrwIGs22CSFP-4" target="yzGMiYRflrwIGs22CSFP-7" edge="1">
@@ -711,7 +686,7 @@
         <mxCell id="yzGMiYRflrwIGs22CSFP-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="711" y="150" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-55" value="Città di nascita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
+        <mxCell id="yzGMiYRflrwIGs22CSFP-55" value="Data di morte" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="721" y="145" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o4mT1XbGUImwSHFmAI3I-0" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="yzGMiYRflrwIGs22CSFP-1" source="o4mT1XbGUImwSHFmAI3I-1" target="yzGMiYRflrwIGs22CSFP-3" edge="1">
