@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:36:53.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="PQNQ5ECAuQHyIPdNA8RA" version="20.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:37:02.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="qkFFkvogPtjr4qUGZixu" version="20.0.3" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="985" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -850,8 +850,8 @@
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-9" value="Genere" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry x="410" y="516" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pOsYEVuAMQ9HLyNE48oW-10" value="Città" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
-          <mxGeometry x="341" y="516" width="42.1" height="20" as="geometry" />
+        <mxCell id="pOsYEVuAMQ9HLyNE48oW-10" value="Nome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="337" y="516" width="42.1" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" source="pOsYEVuAMQ9HLyNE48oW-12" target="pOsYEVuAMQ9HLyNE48oW-9" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry relative="1" as="geometry">
