@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:15:35.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="wzD9PEWUOf6eejQT2bU1" version="20.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:16:19.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="QtaXejsX_BbEggOsuoPu" version="20.0.3" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="985" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
         <mxCell id="yzGMiYRflrwIGs22CSFP-5" value="Pubblicazione" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yzGMiYRflrwIGs22CSFP-7" value="GiocatoreInCampo" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
+        <mxCell id="yzGMiYRflrwIGs22CSFP-7" value="Creazione" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="yzGMiYRflrwIGs22CSFP-1" vertex="1">
           <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yzGMiYRflrwIGs22CSFP-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yzGMiYRflrwIGs22CSFP-1" source="yzGMiYRflrwIGs22CSFP-2" target="yzGMiYRflrwIGs22CSFP-5" edge="1">
