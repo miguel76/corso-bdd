@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:37:02.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="qkFFkvogPtjr4qUGZixu" version="20.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:37:24.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="2n0fZOhftW7mVGpHbTTf" version="20.0.3" type="github" pages="12">
   <diagram id="HdsHzfMsG2_KXcVus3sA" name="Skeleton">
     <mxGraphModel dx="985" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -870,6 +870,9 @@
         </mxCell>
         <mxCell id="pOsYEVuAMQ9HLyNE48oW-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
           <mxGeometry x="378.1" y="541" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pOsYEVuAMQ9HLyNE48oW-15" value="Descrizione" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yzGMiYRflrwIGs22CSFP-1">
+          <mxGeometry x="310" y="536" width="67.1" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
